@@ -32,6 +32,6 @@ sudo python wificracker.py
 >Feel free to change the script 
 ## Credit
 
->I created this tool for my learning and took inspiration for [David Bombal](https://github.com/davidbombal)
+>I created this tool for my learning and took inspiration from [David Bombal](https://github.com/davidbombal)
 >I used his [wifi-deauthor script](https://github.com/davidbombal/red-python-scripts/blob/main/wifi_dos_type2.py) in some parts of my scripts 
 
